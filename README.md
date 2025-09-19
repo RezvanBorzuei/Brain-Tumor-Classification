@@ -3,7 +3,7 @@
 This repository contains the implementation of three deep learning models—ViT-Base, ResNet-50, and DenseNet-121—for classifying brain tumors from MRI images. The code focuses on the first dataset and includes training, evaluation, and model configuration.
 
 ## 📁 Repository Structure
-
+ensemble_method.ipynb
 ```
 tumor-classification
 ├── DenseNet-121
@@ -14,15 +14,10 @@ tumor-classification
 │   └── ResNet-50.random.ipynb   
 ├── ViT-Base
 │   ├── ViT-Base.pretrained.ipynb          
-│   └── ViT-Base.random.ipynb  
+│  └── ViT-Base.random.ipynb
+├── ensemble_method.ipynb
 └── README.md                 # Project overview
 ```
-## 🚀 Getting Started
-
-To run the models:
-
-1. Open the desired Jupyter notebook (e.g., ViT-Base.pretrained.ipynb).
-2. Follow the instructions inside the notebook to install dependencies and run training.
 
 ## 📊 Datasets
 
